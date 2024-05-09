@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688077635876",
+    "project_id": "shopapp-5011b",
+    "storage_bucket": "shopapp-5011b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688077635876:android:1f19be8ebb806d642473b1",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoQ4GyUkyyh5fyLm7oDbfy_FM1pFFrh4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
